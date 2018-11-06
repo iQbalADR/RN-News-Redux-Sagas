@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { FlatList } from 'react-native';
-import Moment from 'moment';
 
 import RowHome from './Row/RowHome';
 import RowDetail from './Row/RowDetail';
@@ -14,7 +13,6 @@ export default class flatListComponent extends Component<Props> {
   }
 
   render() {
-    Moment.locale('en');
     const { data, navigateTo, isDetail } = this.props;
     return (
       <FlatList

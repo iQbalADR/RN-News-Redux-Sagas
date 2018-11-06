@@ -17,7 +17,7 @@ const RowDetail = (props) => (
             </View>
             <View style={styles.listItemRight}>
                 <Text>{props.title}</Text>
-                <Text> {Moment(props.publishedAt).format('DD-M-Y')}</Text>
+                <Text> {Moment(props.publishedAt).format('DD/M/Y')}</Text>
             </View>
         </View>
     </TouchableOpacity>

@@ -1,0 +1,4 @@
+#Mon Nov 05 13:32:02 WIB 2018
+base.0=/Users/18055054/Documents/Training/React Native Basic/day10/NewsSearch/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

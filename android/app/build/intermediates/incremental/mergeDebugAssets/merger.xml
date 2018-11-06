@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/18055054/Documents/Training/React Native Basic/day10/NewsSearch/android/app/src/main/assets"/><source path="/Users/18055054/Documents/Training/React Native Basic/day10/NewsSearch/android/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/18055054/Documents/Training/React Native Basic/day10/NewsSearch/android/app/src/debug/assets"/></dataSet></merger>
